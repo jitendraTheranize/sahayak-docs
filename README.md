@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://sahayakdocs.com">
-    <img src="buildcustomLetterHead/public/og-image.png" alt="Sahayak Docs — free letterhead and letter pad maker with 800+ designs for 87 industries" width="820">
+    <img src="docs/readme/banner.png" alt="Sahayak Docs — free letterhead and letter pad maker with 800+ designs for 87 industries" width="820">
   </a>
 </p>
 
