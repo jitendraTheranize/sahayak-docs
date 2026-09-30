@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sahayakdocs.com">
-    <img src="buildcustomLetterHead/public/icon-192.png" alt="Sahayak Docs logo" width="96" height="96">
+    <img src="docs/readme/logo.png" alt="Sahayak Docs logo" width="96" height="96">
   </a>
 </p>
 
